@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.standardbank.digibanking" version="1.0.0" xmlns="http://www.w3.org/ns/widgets">
+    <name>Digibanking</name>
+    <description>Standard Islami Bank PLC Digibanking App</description>
+    <content src="index.html" />
+    <preference name="Fullscreen" value="true" />
+    <preference name="Orientation" value="portrait" />
+</widget>
